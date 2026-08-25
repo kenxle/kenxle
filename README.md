@@ -14,7 +14,7 @@ Creator of Columbia University's highly sought after course, *Startup Studio: AI
 
 ## 💰 Paid Tools
 
-- 🔎 **[Reddit Research Agent](https://kenstclair.gumroad.com/l/reddit-research-agent)** ($10). An agent pack for voice-of-customer research on Reddit. Reddit is aggressively blocking agents on its site. This stays within their TOS to get you valuable customer insights.
+- 🔎 **[Reddit Research Agent](https://kenstclair.gumroad.com/l/reddit-research-agent)** ($10). Reddit is aggressively blocking agents on its site. This agent pack stays within their TOS to get you valuable customer insights.
 
 ## 🚧 Other Projects
 
