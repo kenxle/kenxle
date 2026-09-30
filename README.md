@@ -8,8 +8,8 @@ Creator of Columbia University's highly sought after course, *Startup Studio: AI
 
 ## 🛠️ Open Source
 
-- 🖊️ **[live-agentic-html-editor](https://github.com/kenxle/live-agentic-html-editor)**. Inject an editor UI into any HTML page on your machine, and enjoy threaded conversations and hand edits, turning your homepage into an agentic wysiwyg chat.
-- 🛠️ **[Feature Forge](https://github.com/kenxle/feature-forge)**. The process I use to take a feature from product thinking through specifications, agent implementation, independent review, and release. Agents read Markdown; humans review HTML with [Lahe](https://github.com/kenxle/live-agentic-html-editor). Lessons feed back into project guidance. [Process and setup](https://www.stclair.ai/feature-forge.html).
+- 🖊️ **Lahe ([live-agentic-html-editor](https://github.com/kenxle/live-agentic-html-editor))**. Inject an editor UI into any HTML page on your machine, and enjoy threaded conversations and hand edits, turning your homepage into an agentic wysiwyg chat.
+- 🛠️ **[Feature Forge](https://github.com/kenxle/feature-forge)**. A(nother) process to take a feature from product thinking through specifications, agent implementation, independent review, release, and compounding knowledge. Review beautiful documentation with [Lahe](https://github.com/kenxle/live-agentic-html-editor) while agents get component Markdown documentation specific to their tasks. Lessons feed back into project guidance. [Product page](https://www.stclair.ai/feature-forge.html).
 - 📊 **[research-report](https://github.com/kenxle/research-report)**. A research pipeline for coding agents. Brief, delegated research tracks, a hard completeness gate, per-source verification, a visual pass, and a built HTML dossier.
 
 ## 💰 Paid Tools
