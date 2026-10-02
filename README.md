@@ -18,7 +18,7 @@ Creator of Columbia University's highly sought after course, *Startup Studio: AI
 
 ## 🚧 Other Projects
 
-- 🎓 **[Startup Studio @ Columbia](https://github.com/kenxle/columbia-startup-studio)**. In this studio-style course, students must build a real product and acquire real users. The course's 3 pillars:
+- 🎓 **[Startup Studio @ Columbia](https://github.com/kenxle/columbia-startup-studio-fall-2026)**. In this studio-style course, students must build a real product and acquire real users. The course's 3 pillars:
   - **Agentic Engineering.** Learning to use AI as a team to develop more than prototypes.
   - **UX Research.** Learning to talk to customers to gain insights through interviewing and usability testing.
   - **Startup 101.** Building pitch decks, what the raise stages mean, getting your first customers, and more.
